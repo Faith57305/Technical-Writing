@@ -146,5 +146,3 @@ Pull requests are welcome. Please open an issue first to discuss changes.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 ```
-
-Remember to tailor your README to your specific project needs - a library will need different information than an application or a data analysis project.# Technical-Writing
